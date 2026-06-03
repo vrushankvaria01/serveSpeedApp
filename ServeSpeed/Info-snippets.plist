@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Add these keys to your target's Info tab in Xcode (or merge into Info.plist).
+Required for camera + mic permission. The app will crash on first launch without them.
+-->
+<plist version="1.0">
+<dict>
+    <key>NSCameraUsageDescription</key>
+    <string>Serve Speed uses the camera to record your serve and measure ball speed.</string>
+    <key>NSMicrophoneUsageDescription</key>
+    <string>Serve Speed uses the microphone to detect ball-on-racquet contact for accurate timing.</string>
+    <key>UISupportedInterfaceOrientations</key>
+    <array>
+        <string>UIInterfaceOrientationLandscapeLeft</string>
+        <string>UIInterfaceOrientationLandscapeRight</string>
+    </array>
+</dict>
+</plist>
