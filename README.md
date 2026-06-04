@@ -6,6 +6,17 @@ ServeSpeed turns your iPhone's slow-motion camera into a serve-speed measurement
 
 ![iOS 17+](https://img.shields.io/badge/iOS-17%2B-black) ![Swift](https://img.shields.io/badge/Swift-5.9-orange) ![SwiftUI](https://img.shields.io/badge/SwiftUI-blue) ![License: TBD](https://img.shields.io/badge/license-TBD-lightgrey)
 
+## Screenshots
+
+<p align="center">
+  <img src="screenshots/hero.jpg"        alt="Idle / home screen"      width="200">
+  <img src="screenshots/calibration.jpg" alt="Court calibration"       width="200">
+  <img src="screenshots/recording.jpg"   alt="Recording a serve"       width="200">
+  <img src="screenshots/analysis.jpg"    alt="Analyzing the recording" width="200">
+</p>
+
+<p align="center"><sub>Idle &nbsp;·&nbsp; Calibration &nbsp;·&nbsp; Recording &nbsp;·&nbsp; Analyzing</sub></p>
+
 ---
 
 ## Features
